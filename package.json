@@ -1,0 +1,26 @@
+{
+  "name": "tinker",
+  "version": "0.0.1",
+  "description": "Tinker is a typecsript DI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliphazbouye/tinker.git"
+  },
+  "keywords": [
+    "DI",
+    "Typescript"
+  ],
+  "author": "Eliphaz Bouye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eliphazbouye/tinker/issues"
+  },
+  "homepage": "https://github.com/eliphazbouye/tinker#readme",
+  "dependencies": {
+    "typescript": "^5.6.3"
+  }
+}
